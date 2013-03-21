@@ -2,6 +2,10 @@
 
 This program is simple to use, just run the executable file from the command line and any icons that can be restored, will be.
 
+## Download
+
+A copy of the precompiled tool for download can be found here:  http://static.owenw.com/trayrestore.exe
+
 ## License
 
 Copyright (c) 2013 Owen Winkler  http://owenw.com/
